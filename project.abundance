@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.7043301759133964,
-      "y": 0.41158536585365857,
+      "x": 0.753721244925575,
+      "y": 0.4207317073170732,
       "uniqueID": "id-51",
       "ioValues": [
         {
@@ -56,8 +56,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.2733423545331529,
-      "y": 0.3445121951219512,
+      "x": 0.21177266576454667,
+      "y": 0.38109756097560976,
       "uniqueID": "id-228",
       "name": "Table_With_Tapered_Legs_and_Rounded_Corners",
       "ioValues": [
@@ -3867,8 +3867,8 @@
     },
     {
       "atomType": "GitHubMolecule",
-      "x": 0.24424898511502027,
-      "y": 0.6615853658536586,
+      "x": 0.18673883626522328,
+      "y": 0.6554878048780487,
       "uniqueID": "id-1341",
       "name": "Table_With_Tapered_Legs_and_Rounded_Corners",
       "ioValues": [
@@ -7726,8 +7726,8 @@
     },
     {
       "atomType": "Color",
-      "x": 0.6461434370771313,
-      "y": 0.7957317073170732,
+      "x": 0.6535859269282814,
+      "y": 0.8048780487804879,
       "uniqueID": "id-1780",
       "ioValues": [
         {
@@ -7735,7 +7735,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "selectedColor": "Default"
+      "selectedColor": "Grey"
     }
   ],
   "allConnectors": [
