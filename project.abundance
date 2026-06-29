@@ -40,8 +40,8 @@
     },
     {
       "atomType": "Intersection",
-      "x": 0.5622462787550744,
-      "y": 0.7195121951219512,
+      "x": 0.5351826792963464,
+      "y": 0.7225609756097561,
       "uniqueID": "id-56",
       "ioValues": [
         {
@@ -56,8 +56,8 @@
     },
     {
       "atomType": "Tag",
-      "x": 0.44722598105548034,
-      "y": 0.33231707317073167,
+      "x": 0.4722598105548038,
+      "y": 0.2225609756097561,
       "uniqueID": "id-1767",
       "name": "base",
       "ioValues": [
@@ -72,8 +72,8 @@
     },
     {
       "atomType": "Tag",
-      "x": 0.4296346414073071,
-      "y": 0.6676829268292683,
+      "x": 0.4722598105548038,
+      "y": 0.4329268292682927,
       "uniqueID": "id-1770",
       "name": "head",
       "ioValues": [
@@ -191,19 +191,9 @@
       "ap2ID": "id-51"
     },
     {
-      "ap2Name": "geometry1",
-      "ap1ID": "id-1767",
-      "ap2ID": "id-56"
-    },
-    {
       "ap2Name": "Shape 2",
       "ap1ID": "id-1770",
       "ap2ID": "id-51"
-    },
-    {
-      "ap2Name": "geometry2",
-      "ap1ID": "id-1770",
-      "ap2ID": "id-56"
     },
     {
       "ap2Name": "geometry",
@@ -211,9 +201,19 @@
       "ap2ID": "id-1767"
     },
     {
+      "ap2Name": "geometry1",
+      "ap1ID": "id-1773",
+      "ap2ID": "id-56"
+    },
+    {
       "ap2Name": "geometry",
       "ap1ID": "id-1776",
       "ap2ID": "id-1770"
+    },
+    {
+      "ap2Name": "geometry2",
+      "ap1ID": "id-1776",
+      "ap2ID": "id-56"
     },
     {
       "ap2Name": "Shape 3",
